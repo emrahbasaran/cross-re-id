@@ -21,3 +21,5 @@ ECN re-ranking can be applied by using "ECN_rerank.m" script from [2]. Copy this
 ### RegDB
 
 All the links for the features are under the directory "RegDB".
+
+[3] RegDB evaluation code: https://github.com/mangye16/Cross-Modal-Re-ID-baseline/blob/master/eval_metrics.py
